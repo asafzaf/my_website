@@ -27,16 +27,21 @@ h3 {
     background-color: #E3FDFD;
 }
 
+.profile_picture {
+    border-radius: 30px;
+}
+
+.main_icon {
+    width: 10%;
+    height: 10%;
+}
+
 .middle-container {
-    background-color: red;
-    width: 200px;
-    height: 200px;
+ 
 }
 
 .bottom-container {
-    background-color: blue;
-    width: 200px;
-    height: 200px;
+
 }
 
 .top-cloud {
