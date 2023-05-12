@@ -21,10 +21,16 @@ h3 {
     text-decoration: underline;
 }
 
-.top-container {
+#top-container {
     position: relative;
     padding-top: 100px;
     background-color: #E3FDFD;
+}
+
+#click-button {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    margin-left: 50px;
 }
 
 .profile_picture {
